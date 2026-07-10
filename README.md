@@ -52,16 +52,7 @@ The analysis follows the full data analysis lifecycle: **Ask → Prepare → Pro
 
 ---
 
-## 🛠️ Tools & Process
-
-| Phase | Tool Used | Action |
-|---|---|---|
-| Prepare | Google Sheets | Downloaded, organised, and stored raw CSV files |
-| Process | Google Sheets | Cleaned data — removed duplicates, standardised date formats, selected key variables |
-| Analyse | Python (Pandas, Matplotlib, Seaborn) | Descriptive statistics, correlation analysis, visualisations |
-| Share | Microsoft PowerPoint | 11-slide executive presentation with data-driven storytelling |
-
-### Data Cleaning Steps
+## Data Cleaning Steps
 - Verified no null or missing values in the activity dataset
 - Identified and removed **3 duplicate rows** from the sleep dataset
 - Standardised date formats across both files
