@@ -85,7 +85,7 @@ The analysis follows the full data analysis lifecycle: **Ask → Prepare → Pro
 | Metric | Value |
 |---|---|
 | Average sleep duration | **6.99 hours** |
-| Sessions in healthy range (7–9 hrs) | **46%** |
+| Sessions in healthy range (7–8 hrs) | **46%** |
 | Sessions below recommended amount | **44%** |
 | Sessions exceeding range | **10%** |
 
